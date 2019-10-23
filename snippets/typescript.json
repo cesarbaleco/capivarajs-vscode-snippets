@@ -12,7 +12,7 @@
 			"\n\t\t$$ctrl.$$onInit = () => console.log('Controller initiated!');",
 			"\n\t\t$$ctrl.$$onViewInit = () => console.log('Rendered view!');",
 			"\n\t\t$$ctrl.$$onChanges = (changes) => console.log('Changes Detected: ', changes);",
-			"\n\t\t$$ctrl.$$destroy = () => console.log('Component destroyed!');",			
+			"\n\t\t$$ctrl.$$destroy = () => console.log('When component destroyed!');",			
 			"\t}",
 			"});"
 		],
